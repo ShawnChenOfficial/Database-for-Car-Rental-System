@@ -1,5 +1,5 @@
 # Database-for-Car-Rental-System
-This is a second year database project. The repository contains the documentation and ERD.
+This is a database project while author was studying in 2nd year of BIT. The repository contains the documentation and ERD.
 
 The database was designed to help a car rental companay to manage their daily data 
 including businesses of: 
